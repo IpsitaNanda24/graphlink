@@ -260,8 +260,6 @@ pytimeparse==1.1.8
 pytube==15.0.0
 pytz==2024.1
 pyvis==0.3.2
-pywin32==308
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
